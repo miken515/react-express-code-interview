@@ -5,7 +5,8 @@
   "author": "Chris Kurhan chris.kurhan@dllgroup.com",
   "scripts": {
     "start": "npx nodemon ./src/app.ts",
-    "build": "npx tsc"
+    "build": "npx tsc",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
